@@ -1,6 +1,6 @@
-# CNN Homepage Clone
+# CNN Website Clone
 
-A responsive clone of the CNN homepage, crafted using HTML, CSS, and JavaScript. This project replicates the look and feel of the CNN website while ensuring compatibility across different devices and screen sizes. It showcases best practices in modern web development.
+A responsive clone of the CNN website's homepage, crafted using HTML, CSS, and JavaScript. This project replicates the look and feel of the CNN website while ensuring compatibility across different devices and screen sizes. It showcases best practices in modern web development.
 
 ## Demo
 
